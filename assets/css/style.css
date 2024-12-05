@@ -7148,18 +7148,18 @@ ol.wp-block-rss {
 }
 @media (min-width: 1930px) {
   .header-layout1 .logo-bg {
-    width: 15%;
+    width: 25%;
     height: 93px;
   }
 }
 @media (max-width: 1299px) {
   .header-layout1 .logo-bg {
-    width: 15%;
+    width: 25%;
   }
 }
 @media (max-width: 1199px) {
   .header-layout1 .logo-bg {
-    width: 25%;
+    width: 30%;
     height: 93px;
   }
 }
